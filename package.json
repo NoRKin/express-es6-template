@@ -1,0 +1,43 @@
+{
+  "name": "express-es6-template",
+  "version": "0.0.1",
+  "description": "Express es6 boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoRKin/express-es6-template.git"
+  },
+  "keywords": [
+    "es6",
+    "express"
+  ],
+  "author": "NoRKin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoRKin/express-es6-template/issues"
+  },
+  "homepage": "https://github.com/NoRKin/express-es6-template#readme",
+  "devDependencies": {
+    "errorhandler": "^1.4.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-jsdoc": "^0.1.4",
+    "gulp-live-server": "0.0.23",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.4",
+    "jsdoc": "^3.3.2",
+    "karma": "^0.13.3",
+    "karma-mocha": "^0.2.0",
+    "minami": "^1.1.0",
+    "mocha": "^2.2.5",
+    "morgan": "^1.6.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cors": "^2.7.1",
+    "express": "^4.13.3"
+  }
+}
